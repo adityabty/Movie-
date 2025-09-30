@@ -74,7 +74,7 @@ class JisshuxBot(Client):
                 yield message
                 current += 1
       
-XBot = Hindimoviesxcbot()
+JisshuBot = Jisshuxbot()
 
 multi_clients = {}
 work_loads = {}
